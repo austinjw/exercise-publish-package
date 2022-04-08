@@ -1,3 +1,20 @@
 {
-  "your": "json config here"
+  "name": "@austinjw/exercise-publish-package",
+  "version": "0.1.0",
+  "description": "Toy package for testing publishing in GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinjw/exercise-publish-package.git",
+    "directory": "sample-packages/npm"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinjw/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/austinjw/exercise-publish-package#readme"
 }
